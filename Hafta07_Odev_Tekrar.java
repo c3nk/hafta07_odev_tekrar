@@ -7,7 +7,7 @@ public class Hafta07_Odev_Tekrar {
 
     public static void main(String[] args) {
     
-        int[] seri = new int[2];
+        int[] seri = new int[3];
         
         for (int i = 0; seri.length > i; i++){
             
